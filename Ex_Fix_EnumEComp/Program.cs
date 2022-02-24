@@ -6,7 +6,7 @@ namespace Ex_Fix_EnumEComp
     {
         static void Main(string[] args)
         {
-            
+           
         }
     }
 }
